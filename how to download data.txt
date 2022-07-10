@@ -1,0 +1,1 @@
+scp -r keonwoo@163.152.163.222:/hdd3/dti_bank/preprocessed/dataset_220622/ /your/directory/
